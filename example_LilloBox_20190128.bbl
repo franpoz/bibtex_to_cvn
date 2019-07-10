@@ -1,0 +1,1658 @@
+﻿@ARTICLE{2019arXiv190107250L,
+       author = {{Leleu}, Adrien and {Lillo-Box}, Jorge and {Sestovic}, Marko and
+        {Robutel}, Philippe and {Correia}, Alexandre and {Hara}, Nathan
+        and {Angerhausen}, Daniel and {Grimm}, Simon and {Schneider},
+        Jean},
+        title = "{Co-orbital exoplanets from close period candidates: The TOI-178 case}",
+      journal = {arXiv e-prints},
+     keywords = {Astrophysics - Earth and Planetary Astrophysics},
+         year = 2019,
+        month = Jan,
+          eid = {arXiv:1901.07250},
+        pages = {arXiv:1901.07250},
+archivePrefix = {arXiv},
+       eprint = {1901.07250},
+ primaryClass = {astro-ph.EP},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2019arXiv190107250L},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2018arXiv181205881E,
+       author = {{Esposito}, M. and {Armstrong}, D.~J. and {Gandolfi}, D. and
+        {Adibekyan}, V. and {Fridlund}, M. and {Santos}, N.~C. and
+        {Livingston}, J.~H. and {Delgado Mena}, E. and {Fossati}, L. and
+        {Lillo-Box}, J. and {Barrag{\'a}n}, O. and {Barrado}, D. and
+        {Cubillos}, P.~E. and {Cooke}, B. and {Justesen}, A.~B. and
+        {Meru}, F. and {D{\'\i}az}, R.~F. and {Dai}, F. and {Nielsen},
+        L.~D. and {Persson}, C.~M. and {Wheatley}, P.~J. and {Hatzes},
+        A.~P. and {Van Eylen}, V. and {Musso}, M.~M. and {Alonso}, R.
+        and {Beck}, P. and {Barros}, S.~C.~C. and {Bayliss}, D. and
+        {Bonomo}, A.~S. and {Bouchy}, F. and {Brown}, D.~J.~A. and
+        {Bryant}, E. and {Cabrera}, J. and {Cochran}, W.~D. and
+        {Csizmadia}, S. and {Deeg}, H. and {Demangeon}, O. and
+        {Deleuil}, M. and {Dumusque}, X. and {Eigm{\"u}ller}, P. and
+        {Endl}, M. and {Erikson}, A. and {Faedi}, F. and {Figueira}, P.
+        and {Fukui}, A. and {Grziwa}, S. and {Guenther}, E.~W. and
+        {Hidalgo}, D. and {Hjorth}, M. and {Hirano}, T. and
+        {Hojjatpanah}, S. and {Knudstrup}, E. and {Korth}, J. and {Lam},
+        K.~W.~F. and {de Leon}, J. and {Lund}, M.~N. and {Luque}, R. and
+        {Mathur}, S. and {Monta{\~n}{\'e}s Rodr{\'\i}guez}, P. and
+        {Narita}, N. and {Nespral}, D. and {Niraula}, P. and {Nowak}, G.
+        and {Osborn}, H.~P. and {Pall{\'e}}, E. and {P{\"a}tzold}, M.
+        and {Pollacco}, D. and {Prieto-Arranz}, J. and {Rauer}, H. and
+        {Redfield}, S. and {Ribas}, I. and {Sousa}, S.~G. and {Smith},
+        A.~M.~S. and {Tala-Pinto}, M. and {Udry}, S. and {Winn}, J.~N.},
+        title = "{HD219666b: a hot-Neptune from TESS Sector 1}",
+      journal = {arXiv e-prints},
+     keywords = {Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Solar and Stellar Astrophysics},
+         year = 2018,
+        month = Dec,
+          eid = {arXiv:1812.05881},
+        pages = {arXiv:1812.05881},
+archivePrefix = {arXiv},
+       eprint = {1812.05881},
+ primaryClass = {astro-ph.EP},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2018arXiv181205881E},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2018PASP..130k4402B,
+       author = {{Bean}, Jacob L. and {Stevenson}, Kevin B. and {Batalha}, Natalie M. and
+        {Berta-Thompson}, Zachory and {Kreidberg}, Laura and {Crouzet},
+        Nicolas and {Benneke}, Bj{\"o}rn and {Line}, Michael R. and
+        {Sing}, David K. and {Wakeford}, Hannah R. and {Knutson},
+        Heather A. and {Kempton}, Eliza M. -R. and {D{\'e}sert}, Jean-
+        Michel and {Crossfield}, Ian and {Batalha}, Natasha E. and {de
+        Wit}, Julien and {Parmentier}, Vivien and {Harrington}, Joseph
+        and {Moses}, Julianne I. and {Lopez-Morales}, Mercedes and
+        {Alam}, Munazza K. and {Blecic}, Jasmina and {Bruno}, Giovanni
+        and {Carter}, Aarynn L. and {Chapman}, John W. and {Decin}, Leen
+        and {Dragomir}, Diana and {Evans}, Thomas M. and {Fortney},
+        Jonathan J. and {Fraine}, Jonathan D. and {Gao}, Peter and
+        {Garc{\'\i}a Mu{\~n}oz}, Antonio and {Gibson}, Neale P. and
+        {Goyal}, Jayesh M. and {Heng}, Kevin and {Hu}, Renyu and
+        {Kendrew}, Sarah and {Kilpatrick}, Brian M. and {Krick}, Jessica
+        and {Lagage}, Pierre-Olivier and {Lendl}, Monika and {Louden},
+        Tom and {Madhusudhan}, Nikku and {Mandell}, Avi M. and
+        {Mansfield}, Megan and {May}, Erin M. and {Morello}, Giuseppe
+        and {Morley}, Caroline V. and {Nikolov}, Nikolay and {Redfield},
+        Seth and {Roberts}, Jessica E. and {Schlawin}, Everett and
+        {Spake}, Jessica J. and {Todorov}, Kamen O. and {Tsiaras},
+        Angelos and {Venot}, Olivia and {Waalkes}, William C. and
+        {Wheatley}, Peter J. and {Zellem}, Robert T. and {Angerhausen},
+        Daniel and {Barrado}, David and {Carone}, Ludmila and
+        {Casewell}, Sarah L. and {Cubillos}, Patricio E. and {Damiano},
+        Mario and {de Val-Borro}, Miguel and {Drummond}, Benjamin and
+        {Edwards}, Billy and {Endl}, Michael and {Espinoza}, Nestor and
+        {France}, Kevin and {Gizis}, John E. and {Greene}, Thomas P. and
+        {Henning}, Thomas K. and {Hong}, Yucian and {Ingalls}, James G.
+        and {Iro}, Nicolas and {Irwin}, Patrick G.~J. and {Kataria},
+        Tiffany and {Lahuis}, Fred and {Leconte}, J{\'e}r{\'e}my and
+        {Lillo-Box}, Jorge and {Lines}, Stefan and {Lothringer}, Joshua
+        D. and {Mancini}, Luigi and {Marchis}, Franck and {Mayne},
+        Nathan and {Palle}, Enric and {Rauscher}, Emily and {Roudier},
+        Ga{\"e}l and {Shkolnik}, Evgenya L. and {Southworth}, John and
+        {Swain}, Mark R. and {Taylor}, Jake and {Teske}, Johanna and
+        {Tinetti}, Giovanna and {Tremblin}, Pascal and {Tucker}, Gregory
+        S. and {van Boekel}, Roy and {Waldmann}, Ingo P. and {Weaver},
+        Ian C. and {Zingales}, Tiziano},
+        title = "{The Transiting Exoplanet Community Early Release Science Program for JWST}",
+      journal = {Publications of the Astronomical Society of the Pacific},
+     keywords = {Astrophysics - Earth and Planetary Astrophysics},
+         year = 2018,
+        month = Nov,
+       volume = {130},
+        pages = {114402},
+          doi = {10.1088/1538-3873/aadbf3},
+archivePrefix = {arXiv},
+       eprint = {1803.04985},
+ primaryClass = {astro-ph.EP},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2018PASP..130k4402B},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2018A&A...620A..77L,
+       author = {{Lam}, K.~W.~F. and {Santerne}, A. and {Sousa}, S.~G. and {Vigan}, A.
+        and {Armstrong}, D.~J. and {Barros}, S.~C.~C. and {Brugger}, B.
+        and {Adibekyan}, V. and {Almenara}, J. -M. and {Delgado Mena},
+        E. and {Dumusque}, X. and {Barrado}, D. and {Bayliss}, D. and
+        {Bonomo}, A.~S. and {Bouchy}, F. and {Brown}, D.~J.~A. and
+        {Ciardi}, D. and {Deleuil}, M. and {Demangeon}, O. and {Faedi},
+        F. and {Foxell}, E. and {Jackman}, J.~A.~G. and {King}, G.~W.
+        and {Kirk}, J. and {Ligi}, R. and {Lillo-Box}, J. and {Lopez},
+        T. and {Lovis}, C. and {Louden}, T. and {Nielsen}, L.~D. and
+        {McCormac}, J. and {Mousis}, O. and {Osborn}, H.~P. and
+        {Pollacco}, D. and {Santos}, N.~C. and {Udry}, S. and
+        {Wheatley}, P.~J.},
+        title = "{K2-265 b: a transiting rocky super-Earth}",
+      journal = {\aap},
+     keywords = {techniques: photometric, techniques: radial velocities, planets and satellites: detection, stars: individual: K2-265, planets and satellites: composition, Astrophysics - Earth and Planetary Astrophysics},
+         year = 2018,
+        month = Nov,
+       volume = {620},
+          eid = {A77},
+        pages = {A77},
+          doi = {10.1051/0004-6361/201834073},
+archivePrefix = {arXiv},
+       eprint = {1809.08869},
+ primaryClass = {astro-ph.EP},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2018A&A...620A..77L},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2018A&A...618A..42L,
+       author = {{Lillo-Box}, J. and {Leleu}, A. and {Parviainen}, H. and {Figueira}, P.
+        and {Mallonn}, M. and {Correia}, A.~C.~M. and {Santos}, N.~C.
+        and {Robutel}, P. and {Lendl}, M. and {Boffin}, H.~M.~J. and
+        {Faria}, J.~P. and {Barrado}, D. and {Neal}, J.},
+        title = "{The TROY project. II. Multi-technique constraints on exotrojans in nine planetary systems}",
+      journal = {\aap},
+     keywords = {planets and satellites: gaseous planets, planets and satellites: fundamental parameters, minor planets, asteroids: general, techniques: radial velocities, techniques: photometric, Astrophysics - Earth and Planetary Astrophysics},
+         year = 2018,
+        month = Oct,
+       volume = {618},
+          eid = {A42},
+        pages = {A42},
+          doi = {10.1051/0004-6361/201833312},
+archivePrefix = {arXiv},
+       eprint = {1807.00773},
+ primaryClass = {astro-ph.EP},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2018A&A...618A..42L},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2018Msngr.173...40L,
+       author = {{Lillo-Box}, J. and {Opitom}, C.},
+        title = "{Report on the ESO Workshop ''Diversis mundi: The Solar System in an Exoplanetary context (OPS-III)''}",
+      journal = {The Messenger},
+         year = 2018,
+        month = Sep,
+       volume = {173},
+        pages = {40-43},
+          doi = {10.18727/0722-6691/5098},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2018Msngr.173...40L},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2018yCat..36139005H,
+       author = {{Huelamo}, N. and {Chauvin}, G. and {Schmid}, H.~M. and {Quanz}, S.~P.
+        and {Whelan}, E. and {Lillo-Box}, J. and {Barrado}, D. and
+        {Montesinos}, B. and {Alcala}, J.~M. and {Benisty}, M. and {de
+        Gregorio-Monsalvo}, I. and {Mendigutia}, I. and {Bouy}, H. and
+        {Merin}, B. and {de Boer}, J. and {Garufi}, A. and {Pantin}, E.},
+        title = "{VizieR Online Data Catalog: H{\ensuremath{\alpha}} emitting sources around MWC758 (Huelamo+, 2018)}",
+      journal = {VizieR Online Data Catalog},
+     keywords = {Stars: Be, Stars: pre-main sequence, Photometry: infrared},
+         year = 2018,
+        month = Jun,
+          eid = {J/A+A/613/L5},
+        pages = {J/A+A/613/L5},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2018yCat..36139005H},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2018A&A...613A..63B,
+       author = {{Bouvier}, J. and {Barrado}, D. and {Moraux}, E. and {Stauffer}, J. and
+        {Rebull}, L. and {Hillenbrand}, L. and {Bayo}, A. and {Boisse},
+        I. and {Bouy}, H. and {DiFolco}, E. and {Lillo-Box}, J. and
+        {Calder{\'o}n}, M. Morales},
+        title = "{The lithium-rotation connection in the 125 Myr-old Pleiades cluster}",
+      journal = {\aap},
+     keywords = {stars: abundances, stars: low-mass, stars: rotation, open clusters and associations: individual: Melotte 22 (Pleiades), stars: solar-type, Astrophysics - Solar and Stellar Astrophysics},
+         year = 2018,
+        month = Jun,
+       volume = {613},
+          eid = {A63},
+        pages = {A63},
+          doi = {10.1051/0004-6361/201731881},
+archivePrefix = {arXiv},
+       eprint = {1712.06525},
+ primaryClass = {astro-ph.SR},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2018A&A...613A..63B},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2018NatAs...2..393S,
+       author = {{Santerne}, A. and {Brugger}, B. and {Armstrong}, D.~J. and {Adibekyan},
+        V. and {Lillo-Box}, J. and {Gosselin}, H. and {Aguichine}, A.
+        and {Almenara}, J. -M. and {Barrado}, D. and {Barros}, S.~C.~C.
+        and {Bayliss}, D. and {Boisse}, I. and {Bonomo}, A.~S. and
+        {Bouchy}, F. and {Brown}, D.~J.~A. and {Deleuil}, M. and
+        {Delgado Mena}, E. and {Demangeon}, O. and {D{\'\i}az}, R.~F.
+        and {Doyle}, A. and {Dumusque}, X. and {Faedi}, F. and {Faria},
+        J.~P. and {Figueira}, P. and {Foxell}, E. and {Giles}, H. and
+        {H{\'e}brard}, G. and {Hojjatpanah}, S. and {Hobson}, M. and
+        {Jackman}, J. and {King}, G. and {Kirk}, J. and {Lam}, K.~W.~F.
+        and {Ligi}, R. and {Lovis}, C. and {Louden}, T. and {McCormac},
+        J. and {Mousis}, O. and {Neal}, J.~J. and {Osborn}, H.~P. and
+        {Pepe}, F. and {Pollacco}, D. and {Santos}, N.~C. and {Sousa},
+        S.~G. and {Udry}, S. and {Vigan}, A.},
+        title = "{An Earth-sized exoplanet with a Mercury-like composition}",
+      journal = {Nature Astronomy},
+     keywords = {Astrophysics - Earth and Planetary Astrophysics},
+         year = 2018,
+        month = May,
+       volume = {2},
+        pages = {393-400},
+          doi = {10.1038/s41550-018-0420-5},
+archivePrefix = {arXiv},
+       eprint = {1805.08405},
+ primaryClass = {astro-ph.EP},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2018NatAs...2..393S},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2018MNRAS.476.1140A,
+       author = {{Aller}, A. and {Lillo-Box}, J. and {Vu{\v{c}}kovi{\'c}}, M. and {Van
+        Winckel}, H. and {Jones}, D. and {Montesinos}, B. and
+        {Zorotovic}, M. and {Miranda}, L.~F.},
+        title = "{A new look inside planetary nebula LoTr 5: a long-period binary with hints of a possible third component}",
+      journal = {\mnras},
+     keywords = {techniques: photometric, techniques: radial velocities, stars: activity, binaries: general, planetary nebulae: individual: LoTr 5, Astrophysics - Solar and Stellar Astrophysics},
+         year = 2018,
+        month = May,
+       volume = {476},
+        pages = {1140-1150},
+          doi = {10.1093/mnras/sty174},
+archivePrefix = {arXiv},
+       eprint = {1801.06032},
+ primaryClass = {astro-ph.SR},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2018MNRAS.476.1140A},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2018A&A...613L...5H,
+       author = {{Hu{\'e}lamo}, N. and {Chauvin}, G. and {Schmid}, H.~M. and {Quanz},
+        S.~P. and {Whelan}, E. and {Lillo-Box}, J. and {Barrado}, D. and
+        {Montesinos}, B. and {Alcal{\'a}}, J.~M. and {Benisty}, M. and
+        {Gregorio-Monsalvo}, I. de and {Mendigut{\'\i}a}, I. and {Bouy},
+        H. and {Mer{\'\i}n}, B. and {de Boer}, J. and {Garufi}, A. and
+        {Pantin}, E.},
+        title = "{Searching for H$_{{\ensuremath{\alpha}}}$ emitting sources around MWC 758. SPHERE/ZIMPOL high-contrast imaging}",
+      journal = {\aap},
+     keywords = {stars: pre-main sequence, planetary systems, stars: individual: MWC758, accretion, accretion disks, techniques: high angular resolution, Astrophysics - Solar and Stellar Astrophysics, Astrophysics - Earth and Planetary Astrophysics},
+         year = 2018,
+        month = May,
+       volume = {613},
+          eid = {L5},
+        pages = {L5},
+          doi = {10.1051/0004-6361/201832874},
+archivePrefix = {arXiv},
+       eprint = {1803.09264},
+ primaryClass = {astro-ph.SR},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2018A&A...613L...5H},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2018arXiv180304010L,
+       author = {{Lillo-Box}, Jorge and {Kipping}, David and {Rebollido}, Isabel and
+        {Figueira}, Pedro and {Leleu}, Adrien and {Correia}, Alexandre
+        and {Robutel}, Philippe and {Santos}, Nuno C. and {Barrado},
+        David and {Montesinos}, Benjam{\'\i}n and {Boekholt}, Tjarda},
+        title = "{Towards completing Planetary Systems: The role of minor bodies on life growth and survival}",
+      journal = {arXiv e-prints},
+     keywords = {Astrophysics - Earth and Planetary Astrophysics},
+         year = 2018,
+        month = Mar,
+          eid = {arXiv:1803.04010},
+        pages = {arXiv:1803.04010},
+archivePrefix = {arXiv},
+       eprint = {1803.04010},
+ primaryClass = {astro-ph.EP},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2018arXiv180304010L},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2018yCat..36130063B,
+       author = {{Bouvier}, J. and {Barrado}, D. and {Moraux}, E. and {Stauffer}, J. and
+        {Rebull}, L. and {Hillenbrand}, L. and {Bayo}, A. and {Boisse},
+        I. and {Bouy}, H. and {Difolco}, E. and {Lillo-Box}, J. and
+        {Morales Calderon}, M.},
+        title = "{VizieR Online Data Catalog: Lithium content for 148 Pleiades stars (Bouvier+, 2018)}",
+      journal = {VizieR Online Data Catalog},
+     keywords = {Clusters: open, Stars: K-type, Abundances},
+         year = 2018,
+        month = Feb,
+          eid = {J/A+A/613/A63},
+        pages = {J/A+A/613/A63},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2018yCat..36130063B},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2018A&A...609A..96L,
+       author = {{Lillo-Box}, J. and {Barrado}, D. and {Figueira}, P. and {Leleu}, A. and
+        {Santos}, N.~C. and {Correia}, A.~C.~M. and {Robutel}, P. and
+        {Faria}, J.~P.},
+        title = "{The TROY project: Searching for co-orbital bodies to known planets. I. Project goals and first results from archival radial velocity}",
+      journal = {\aap},
+     keywords = {planets and satellites: gaseous planets, planets and satellites: formation, minor planets, asteroids: general, techniques: radial velocities, Astrophysics - Earth and Planetary Astrophysics},
+         year = 2018,
+        month = Jan,
+       volume = {609},
+          eid = {A96},
+        pages = {A96},
+          doi = {10.1051/0004-6361/201730652},
+archivePrefix = {arXiv},
+       eprint = {1710.01138},
+ primaryClass = {astro-ph.EP},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2018A&A...609A..96L},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2017A&A...608L...9L,
+       author = {{Lagrange}, A. -M. and {Keppler}, M. and {Beust}, H. and {Rodet}, L. and
+        {Meunier}, N. and {Lillo-Box}, J. and {Bonnefoy}, M. and
+        {Galland}, F.},
+        title = "{Discovery of a stellar companion to HD 131399A}",
+      journal = {\aap},
+     keywords = {techniques: radial velocities, planetary systems, binaries: close, stars: individual: HD 131399},
+         year = 2017,
+        month = Dec,
+       volume = {608},
+          eid = {L9},
+        pages = {L9},
+          doi = {10.1051/0004-6361/201730978},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2017A&A...608L...9L},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2017A&A...608A..25B,
+       author = {{Barros}, S.~C.~C. and {Gosselin}, H. and {Lillo-Box}, J. and {Bayliss},
+        D. and {Delgado Mena}, E. and {Brugger}, B. and {Santerne}, A.
+        and {Armstrong}, D.~J. and {Adibekyan}, V. and {Armstrong},
+        J.~D. and {Barrado}, D. and {Bento}, J. and {Boisse}, I. and
+        {Bonomo}, A.~S. and {Bouchy}, F. and {Brown}, D.~J.~A. and
+        {Cochran}, W.~D. and {Collier Cameron}, A. and {Deleuil}, M. and
+        {Demangeon}, O. and {D{\'\i}az}, R.~F. and {Doyle}, A. and
+        {Dumusque}, X. and {Ehrenreich}, D. and {Espinoza}, N. and
+        {Faedi}, F. and {Faria}, J.~P. and {Figueira}, P. and {Foxell},
+        E. and {H{\'e}brard}, G. and {Hojjatpanah}, S. and {Jackman}, J.
+        and {Lendl}, M. and {Ligi}, R. and {Lovis}, C. and {Melo}, C.
+        and {Mousis}, O. and {Neal}, J.~J. and {Osborn}, H.~P. and
+        {Pollacco}, D. and {Santos}, N.~C. and {Sefako}, R. and
+        {Shporer}, A. and {Sousa}, S.~G. and {Triaud}, A.~H.~M.~J. and
+        {Udry}, S. and {Vigan}, A. and {Wyttenbach}, A.},
+        title = "{Precise masses for the transiting planetary system HD 106315 with HARPS}",
+      journal = {\aap},
+     keywords = {planets and satellites: detection, planets and satellites: fundamental parameters, planets and satellites: composition, stars: individual: HD 106315, techniques: radial velocities, techniques: photometric, Astrophysics - Earth and Planetary Astrophysics},
+         year = 2017,
+        month = Dec,
+       volume = {608},
+          eid = {A25},
+        pages = {A25},
+          doi = {10.1051/0004-6361/201731276},
+archivePrefix = {arXiv},
+       eprint = {1709.00865},
+ primaryClass = {astro-ph.EP},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2017A&A...608A..25B},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2017yCat..36090096L,
+       author = {{Lillo-Box}, J. and {Barrado}, D. and {Figueira}, P. and {Leleu}, A. and
+        {Santos}, N.~C. and {Correia}, A.~C.~M. and {Robutel}, P. and
+        {Faria}, J.~P.},
+        title = "{VizieR Online Data Catalog: TROY project. I. (Lillo-Box+, 2018)}",
+      journal = {VizieR Online Data Catalog},
+     keywords = {Stars: double and multiple, Planets, Radial velocities, Models},
+         year = 2017,
+        month = Nov,
+          eid = {J/A+A/609/A96},
+        pages = {J/A+A/609/A96},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2017yCat..36090096L},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2017IAUS..328..363C,
+       author = {{Cruz}, Patricia and {Barrado}, David and {Lillo-Box}, Jorge and {Diaz},
+        Marcos and {L{\'o}pez-Morales}, Mercedes and {Birkby}, Jayne and
+        {Fortney}, Jonathan J. and {Hodgkin}, Simon},
+        title = "{Detection of secondary eclipses of WASP-10b and Qatar-1b in the Ks band and the correlation between Ks-band temperature and stellar activity.}",
+     keywords = {Planetary systems, stars, photometry},
+    booktitle = {Living Around Active Stars},
+         year = 2017,
+       editor = {{Nandy}, D. and {Valio}, A. and {Petit}, P.},
+       series = {IAU Symposium},
+       volume = {328},
+        month = Oct,
+        pages = {363-370},
+          doi = {10.1017/S1743921317003660},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2017IAUS..328..363C},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2017IAUS..323..378A,
+       author = {{Aller}, Alba and {Vu{\v{c}}kovi{\'c}}, Maja and {Lillo-Box}, Jorge and
+        {Miranda}, Luis F. and {Jones}, David and {Boffin}, Henri M.~J.},
+        title = "{Hunting for binary central stars of planetary nebulae: exploiting archival data}",
+     keywords = {binaries: general, planetary nebulae: general, astronomical data bases: miscellaneous},
+    booktitle = {Planetary Nebulae: Multi-Wavelength Probes of Stellar and Galactic Evolution},
+         year = 2017,
+       editor = {{Liu}, X. and {Stanghellini}, L. and {Karakas}, A.},
+       series = {IAU Symposium},
+       volume = {323},
+        month = Oct,
+        pages = {378-379},
+          doi = {10.1017/S1743921317000795},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2017IAUS..323..378A},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2017EPSC...11..764R,
+       author = {{Robutel}, p. and {Leleu}, A. and {Correia}, A. and {Lillo-Box}, J.},
+        title = "{Searching for co-orbital planets by combining transit and radial-velocity measurements}",
+    booktitle = {European Planetary Science Congress},
+         year = 2017,
+        month = Sep,
+          eid = {EPSC2017-764},
+        pages = {EPSC2017-764},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2017EPSC...11..764R},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2017yCat..51530071F,
+       author = {{Furlan}, E. and {Ciardi}, D.~R. and {Everett}, M.~E. and {Saylors}, M.
+        and {Teske}, J.~K. and {Horch}, E.~P. and {Howell}, S.~B. and
+        {van Belle}, G.~T. and {Hirsch}, L.~A. and {Gautier}, T.~N. and
+        {Adams}, E.~R. and {Barrado}, D. and {Cartier}, K.~M.~S. and
+        {Dressing}, C.~D. and {Dupree}, A.~K. and {Gilliland}, R.~L. and
+        {Lillo-Box}, J. and {Lucas}, P.~W. and {Wang}, J.},
+        title = "{VizieR Online Data Catalog: Kepler follow-up observation program. I. Imaging (Furlan+, 2017)}",
+      journal = {VizieR Online Data Catalog},
+     keywords = {Stars: double and multiple, Planets, Photometry: infrared, Photometry: HST},
+         year = 2017,
+        month = Jul,
+          eid = {J/AJ/153/71},
+        pages = {J/AJ/153/71},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2017yCat..51530071F},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2017chsw.confE..31L,
+       author = {{Lillo-Box}, J.},
+        title = "{Exoplanet orbit mates through transit searches with Cheops within the TROY project}",
+    booktitle = {CHEOPS Fifth Science Workshop},
+         year = 2017,
+        month = Jul,
+          eid = {31},
+        pages = {31},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2017chsw.confE..31L},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2017A&A...604A..19O,
+       author = {{Osborn}, H.~P. and {Santerne}, A. and {Barros}, S.~C.~C. and {Santos},
+        N.~C. and {Dumusque}, X. and {Malavolta}, L. and {Armstrong},
+        D.~J. and {Hojjatpanah}, S. and {Demangeon}, O. and {Adibekyan},
+        V. and {Almenara}, J. -M. and {Barrado}, D. and {Bayliss}, D.
+        and {Boisse}, I. and {Bouchy}, F. and {Brown}, D.~J.~A. and
+        {Cameron}, A.~C. and {Charbonneau}, D. and {Deleuil}, M. and
+        {Delgado Mena}, E. and {D{\'\i}az}, R.~F. and {H{\'e}brard}, G.
+        and {Kirk}, J. and {King}, G.~W. and {Lam}, K.~W.~F. and
+        {Latham}, D. and {Lillo-Box}, J. and {Louden}, T.~M. and
+        {Lovis}, C. and {Marmier}, M. and {McCormac}, J. and {Molinari},
+        E. and {Pepe}, F. and {Pollacco}, D. and {Sousa}, S.~G. and
+        {Udry}, S. and {Walker}, S.~R.},
+        title = "{K2-110 b: a massive mini-Neptune exoplanet}",
+      journal = {\aap},
+     keywords = {planets and satellites: detection, Astrophysics - Earth and Planetary Astrophysics},
+         year = 2017,
+        month = Jul,
+       volume = {604},
+          eid = {A19},
+        pages = {A19},
+          doi = {10.1051/0004-6361/201628932},
+archivePrefix = {arXiv},
+       eprint = {1605.04291},
+ primaryClass = {astro-ph.EP},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2017A&A...604A..19O},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2017yCat..51530015B,
+       author = {{Bayliss}, D. and {Hojjatpanah}, S. and {Santerne}, A. and {Dragomir},
+        D. and {Zhou}, G. and {Shporer}, A. and {Colon}, K.~D. and
+        {Almenara}, J. and {Armstrong}, D.~J. and {Barrado}, D. and
+        {Barros}, S.~C.~C. and {Bento}, J. and {Boisse}, I. and
+        {Bouchy}, F. and {Brown}, D.~J.~A. and {Brown}, T. and
+        {Cameron}, A. and {Cochran}, W.~D. and {Demangeon}, O. and
+        {Deleuil}, M. and {Diaz}, R.~F. and {Fulton}, B. and {Horne}, K.
+        and {Hebrard}, G. and {Lillo-Box}, J. and {Lovis}, C. and
+        {Mawet}, D. and {Ngo}, H. and {Osborn}, H. and {Palle}, E. and
+        {Petigura}, E. and {Pollacco}, D. and {Santos}, N. and {Sefako},
+        R. and {Siverd}, R. and {Sousa}, S.~G. and {Tsantaki}, M.},
+        title = "{VizieR Online Data Catalog: Photometry and spectroscopy of EPIC 201702477 (Bayliss+, 2017)}",
+      journal = {VizieR Online Data Catalog},
+     keywords = {Planets, Stars: double and multiple, Stars: dwarfs, Photometry: ugriz, Radial velocities},
+         year = 2017,
+        month = Jun,
+          eid = {J/AJ/153/15},
+        pages = {J/AJ/153/15},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2017yCat..51530015B},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2017AJ....153..201F,
+       author = {{Furlan}, E. and {Ciardi}, D.~R. and {Everett}, M.~E. and {Saylors}, M.
+        and {Teske}, J.~K. and {Horch}, E.~P. and {Howell}, S.~B. and
+        {van Belle}, G.~T. and {Hirsch}, L.~A. and {Gautier}, T.~N., III
+        and {Adams}, E.~R. and {Barrado}, D. and {Cartier}, K.~M.~S. and
+        {Dressing}, C.~D. and {Dupree}, A.~K. and {Gilliland}, R.~L. and
+        {Lillo-Box}, J. and {Lucas}, P.~W. and {Wang}, J.},
+        title = "{Erratum: {\textquotedblleft}The Kepler Follow-up Observation Program. I. A Catalog of Companions to Kepler Stars from High-resolution Imaging{\textquotedblright} (<A href=''https://doi.org/10.3847/1538-3881/153/2/71''>2017, AJ, 153, 71</A>)}",
+      journal = {\aj},
+         year = 2017,
+        month = Apr,
+       volume = {153},
+          eid = {201},
+        pages = {201},
+          doi = {10.3847/1538-3881/aa6680},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2017AJ....153..201F},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2017AJ....153..177P,
+       author = {{Pepper}, Joshua and {Gillen}, Ed and {Parviainen}, Hannu and
+        {Hillenbrand}, Lynne A. and {Cody}, Ann Marie and {Aigrain},
+        Suzanne and {Stauffer}, John and {Vrba}, Frederick J. and
+        {David}, Trevor and {Lillo-Box}, Jorge and {Stassun}, Keivan G.
+        and {Conroy}, Kyle E. and {Pope}, Benjamin J.~S. and {Barrado},
+        David},
+        title = "{A Low-mass Exoplanet Candidate Detected by K2 Transiting the Praesepe M Dwarf JS 183}",
+      journal = {\aj},
+     keywords = {galaxies: star clusters: individual: Praesepe, planets and satellites: detection, Astrophysics - Earth and Planetary Astrophysics},
+         year = 2017,
+        month = Apr,
+       volume = {153},
+          eid = {177},
+        pages = {177},
+          doi = {10.3847/1538-3881/aa62ab},
+archivePrefix = {arXiv},
+       eprint = {1703.10250},
+ primaryClass = {astro-ph.EP},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2017AJ....153..177P},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2017Msngr.167...45S,
+       author = {{Sybilska}, A. and {De Cia}, A. and {Lillo Box}, J.},
+        title = "{Fellows at ESO}",
+      journal = {The Messenger},
+         year = 2017,
+        month = Mar,
+       volume = {167},
+        pages = {45},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2017Msngr.167...45S},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2017A&A...599L...7L,
+       author = {{Leleu}, A. and {Robutel}, P. and {Correia}, A.~C.~M. and {Lillo-Box},
+        J.},
+        title = "{Detection of co-orbital planets by combining transit and radial-velocity measurements}",
+      journal = {\aap},
+     keywords = {planets and satellites: detection, celestial mechanics, planetary systems, techniques: radial velocities, techniques: photometric, Astrophysics - Earth and Planetary Astrophysics},
+         year = 2017,
+        month = Mar,
+       volume = {599},
+          eid = {L7},
+        pages = {L7},
+          doi = {10.1051/0004-6361/201630073},
+archivePrefix = {arXiv},
+       eprint = {1702.08775},
+ primaryClass = {astro-ph.EP},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2017A&A...599L...7L},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2017AJ....153...71F,
+       author = {{Furlan}, E. and {Ciardi}, D.~R. and {Everett}, M.~E. and {Saylors}, M.
+        and {Teske}, J.~K. and {Horch}, E.~P. and {Howell}, S.~B. and
+        {van Belle}, G.~T. and {Hirsch}, L.~A. and {Gautier}, T.~N., III
+        and {Adams}, E.~R. and {Barrado}, D. and {Cartier}, K.~M.~S. and
+        {Dressing}, C.~D. and {Dupree}, A.~K. and {Gilliland}, R.~L. and
+        {Lillo-Box}, J. and {Lucas}, P.~W. and {Wang}, J.},
+        title = "{The Kepler Follow-up Observation Program. I. A Catalog of Companions to Kepler Stars from High-Resolution Imaging}",
+      journal = {\aj},
+     keywords = {binaries: general, catalogs, planets and satellites: detection, surveys, techniques: high angular resolution, techniques: photometric, Astrophysics - Solar and Stellar Astrophysics},
+         year = 2017,
+        month = Feb,
+       volume = {153},
+          eid = {71},
+        pages = {71},
+          doi = {10.3847/1538-3881/153/2/71},
+archivePrefix = {arXiv},
+       eprint = {1612.02392},
+ primaryClass = {astro-ph.SR},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2017AJ....153...71F},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2017AJ....153...15B,
+       author = {{Bayliss}, D. and {Hojjatpanah}, S. and {Santerne}, A. and {Dragomir},
+        D. and {Zhou}, G. and {Shporer}, A. and {Col{\'o}n}, K.~D. and
+        {Almenara}, J. and {Armstrong}, D.~J. and {Barrado}, D. and
+        {Barros}, S.~C.~C. and {Bento}, J. and {Boisse}, I. and
+        {Bouchy}, F. and {Brown}, D.~J.~A. and {Brown}, T. and
+        {Cameron}, A. and {Cochran}, W.~D. and {Demangeon}, O. and
+        {Deleuil}, M. and {D{\'\i}az}, R.~F. and {Fulton}, B. and
+        {Horne}, K. and {H{\'e}brard}, G. and {Lillo-Box}, J. and
+        {Lovis}, C. and {Mawet}, D. and {Ngo}, H. and {Osborn}, H. and
+        {Palle}, E. and {Petigura}, E. and {Pollacco}, D. and {Santos},
+        N. and {Sefako}, R. and {Siverd}, R. and {Sousa}, S.~G. and
+        {Tsantaki}, M.},
+        title = "{EPIC 201702477b: A Transiting Brown Dwarf from K2 in a 41 day Orbit}",
+      journal = {\aj},
+     keywords = {planetary systems, techniques: photometric, techniques: spectroscopic, Astrophysics - Earth and Planetary Astrophysics},
+         year = 2017,
+        month = Jan,
+       volume = {153},
+          eid = {15},
+        pages = {15},
+          doi = {10.3847/1538-3881/153/1/15},
+archivePrefix = {arXiv},
+       eprint = {1606.04047},
+ primaryClass = {astro-ph.EP},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2017AJ....153...15B},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2016A&A...596A.113B,
+       author = {{Barrado}, D. and {Bouy}, H. and {Bouvier}, J. and {Moraux}, E. and
+        {Sarro}, L.~M. and {Bertin}, E. and {Cuillandre}, J. -C. and
+        {Stauffer}, J.~R. and {Lillo-Box}, J. and {Pollock}, A.},
+        title = "{The seven sisters DANCe. II. Proper motions and the lithium rotation-activity connection for G and K Pleiades}",
+      journal = {\aap},
+     keywords = {stars: abundances, open clusters and associations: general, starspots, stars: rotation, stars: pre-main sequence, stars: late-type, Astrophysics - Solar and Stellar Astrophysics},
+         year = 2016,
+        month = Dec,
+       volume = {596},
+          eid = {A113},
+        pages = {A113},
+          doi = {10.1051/0004-6361/201629103},
+archivePrefix = {arXiv},
+       eprint = {1608.02751},
+ primaryClass = {astro-ph.SR},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2016A&A...596A.113B},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2016A&A...595L..11S,
+       author = {{Santerne}, A. and {Beaulieu}, J. -P. and {Rojas Ayala}, B. and
+        {Boisse}, I. and {Schlawin}, E. and {Almenara}, J. -M. and
+        {Batista}, V. and {Bennett}, D. and {D{\'\i}az}, R.~F. and
+        {Figueira}, P. and {James}, D.~J. and {Herter}, T. and {Lillo-
+        Box}, J. and {Marquette}, J.~B. and {Ranc}, C. and {Santos},
+        N.~C. and {Sousa}, S.~G.},
+        title = "{Spectroscopic characterisation of microlensing events. Towards a new interpretation of OGLE-2011-BLG-0417}",
+      journal = {\aap},
+     keywords = {techniques: spectroscopic, techniques: high angular resolution, stars: individual: OGLE-2011-BLG-0417, Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Solar and Stellar Astrophysics},
+         year = 2016,
+        month = Nov,
+       volume = {595},
+          eid = {L11},
+        pages = {L11},
+          doi = {10.1051/0004-6361/201527710},
+archivePrefix = {arXiv},
+       eprint = {1610.04446},
+ primaryClass = {astro-ph.EP},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2016A&A...595L..11S},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2016yCat..35940050L,
+       author = {{Lillo-Box}, J. and {Demangeon}, O. and {Santerne}, A. and {Barros},
+        S.~C.~C. and {Barrado}, D. and {Hebrard}, G. and {Osborn}, H.~P.
+        and {Armstrong}, D.~J. and {Almenara}, J. -M. and {Boisse}, I.
+        and {Bouchy}, F. and {Brown}, D.~J.~A. and {Courcol}, B. and
+        {Deleuil}, M. and {Delgado Mena}, E. and {Diaz}, R.~F. and
+        {Kirk}, J. and {Lam}, K.~W.~F. and {McCormac}, J. and
+        {Pollacco}, D. and {Rajpurohit}, A. and {Rey}, J. and {Santos},
+        N.~C. and {Sousa}, S.~G. and {Tsantaki}, M. and {Wilson}, P.~A.},
+        title = "{VizieR Online Data Catalog: K2-30 b and K2-34 b K2 light curves (Lillo-Box+, 2016)}",
+      journal = {VizieR Online Data Catalog},
+     keywords = {Stars: double and multiple, Planets},
+         year = 2016,
+        month = Oct,
+          eid = {J/A+A/594/A50},
+        pages = {J/A+A/594/A50},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2016yCat..35940050L},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2016Obs...136..226C,
+       author = {{Caballero}, J.~A. and {Bouy}, H. and {Lillo-Box}, J.},
+        title = "{An upper limit to the mass of a close companion candidate to sigma Ori E}",
+      journal = {The Observatory},
+     keywords = {Astrophysics - Solar and Stellar Astrophysics},
+         year = 2016,
+        month = Oct,
+       volume = {136},
+        pages = {226-231},
+archivePrefix = {arXiv},
+       eprint = {1608.04028},
+ primaryClass = {astro-ph.SR},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2016Obs...136..226C},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2016IAUFM..29A..51B,
+       author = {{Barros}, S.~C.~C. and {Almenara}, J.~M. and {Demangeon}, O. and
+        {Tsantaki}, M. and {Santerne}, A. and {Armstrong}, D.~J. and
+        {Barrado}, D. and {Brown}, D. and {Deleuil}, M. and {Lillo-Box},
+        J. and {Osborn}, H. and {Pollacco}, D. and {Abe}, L. and
+        {Andre}, P. and {Bendjoya}, P. and {Boisse}, I. and {Bonomo},
+        A.~S. and {Bouchy}, F. and {Bruno}, G. and {Cerda}, J. Rey and
+        {Courcol}, B. and {D{\'\i}az}, R.~F. and {H{\'e}brard}, G. and
+        {Kirk}, J. and {Lachuri{\'e}}, J.~C. and {Lam}, K.~W.~F. and
+        {Martinez}, P. and {McCormac}, J. and {Moutou}, C. and
+        {Rajpurohit}, A. and {Rivet}, J. -P. and {Spake}, J. and
+        {Suarez}, O. and {Toublanc}, D. and {Walker}, S.~R.},
+        title = "{K2-19, The first K2 muti-planetary system showing TTVs}",
+      journal = {IAU Focus Meeting},
+     keywords = {Planet detection, dynamical evolution and stability, K2-19, radial velocity},
+         year = 2016,
+        month = Oct,
+       volume = {29A},
+        pages = {51-56},
+          doi = {10.1017/S1743921316002386},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2016IAUFM..29A..51B},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2016A&A...595A..61C,
+       author = {{Cruz}, Patricia and {Barrado}, David and {Lillo-Box}, Jorge and {Diaz},
+        Marcos and {Birkby}, Jayne and {L{\'o}pez-Morales}, Mercedes and
+        {Fortney}, Jonathan J.},
+        title = "{Detection of the secondary eclipse of Qatar-1b in the Ks band}",
+      journal = {\aap},
+     keywords = {planetary systems, stars: individual: Qatar-1b, techniques: photometric, Astrophysics - Earth and Planetary Astrophysics},
+         year = 2016,
+        month = Oct,
+       volume = {595},
+          eid = {A61},
+        pages = {A61},
+          doi = {10.1051/0004-6361/201526333},
+archivePrefix = {arXiv},
+       eprint = {1608.06263},
+ primaryClass = {astro-ph.EP},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2016A&A...595A..61C},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2016A&A...594A..50L,
+       author = {{Lillo-Box}, J. and {Demangeon}, O. and {Santerne}, A. and {Barros},
+        S.~C.~C. and {Barrado}, D. and {H{\'e}brard}, G. and {Osborn},
+        H.~P. and {Armstrong}, D.~J. and {Almenara}, J. -M. and
+        {Boisse}, I. and {Bouchy}, F. and {Brown}, D.~J.~A. and
+        {Courcol}, B. and {Deleuil}, M. and {Delgado Mena}, E. and
+        {D{\'\i}az}, R.~F. and {Kirk}, J. and {Lam}, K.~W.~F. and
+        {McCormac}, J. and {Pollacco}, D. and {Rajpurohit}, A. and
+        {Rey}, J. and {Santos}, N.~C. and {Sousa}, S.~G. and {Tsantaki},
+        M. and {Wilson}, P.~A.},
+        title = "{K2-30 b and K2-34 b: Two inflated hot Jupiters around solar-type stars}",
+      journal = {\aap},
+     keywords = {planets and satellites: detection, planets and satellites: gaseous planets, techniques: radial velocities, techniques: photometric, techniques: high angular resolution, Astrophysics - Earth and Planetary Astrophysics},
+         year = 2016,
+        month = Oct,
+       volume = {594},
+          eid = {A50},
+        pages = {A50},
+          doi = {10.1051/0004-6361/201628204},
+archivePrefix = {arXiv},
+       eprint = {1601.07635},
+ primaryClass = {astro-ph.EP},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2016A&A...594A..50L},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2016yCat..35950061C,
+       author = {{Cruz}, P. and {Barrado}, D. and {Lillo-Box}, J. and {Diaz}, M. and
+        {Birkby}, J. and {Lopez-Morales}, M. and {Fortney}, J.~J.},
+        title = "{VizieR Online Data Catalog: Detection of the secondary eclipse of Qatar-1b (Cruz+, 2016)}",
+      journal = {VizieR Online Data Catalog},
+     keywords = {Stars: double and multiple, Planets, Photometry, Occultations},
+         year = 2016,
+        month = Sep,
+          eid = {J/A+A/595/A61},
+        pages = {J/A+A/595/A61},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2016yCat..35950061C},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2016yCat..35960113B,
+       author = {{Barrado}, D. and {Bouy}, H. and {Bouvier}, J. and {Moraux}, E. and
+        {Sarro}, L.~M. and {Bertin}, E. and {Cuillandre}, J.~C. and
+        {Stauffer}, J.~R. and {Lillo-Box}, J. and {Pollock}, A.},
+        title = "{VizieR Online Data Catalog: The Seven Sisters DANCe. II. Pleiades (Barrado+, 2016)}",
+      journal = {VizieR Online Data Catalog},
+     keywords = {Clusters: open, Stars: pre-main sequence, Proper motions, Abundances},
+         year = 2016,
+        month = Aug,
+          eid = {J/A+A/596/A113},
+        pages = {J/A+A/596/A113},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2016yCat..35960113B},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2016A&A...592A..32L,
+       author = {{Lillo-Box}, J. and {Ribas}, A. and {Barrado}, D. and {Mer{\'\i}n}, B.
+        and {Bouy}, H.},
+        title = "{Search for light curve modulations among Kepler candidates. Three very low-mass transiting companions}",
+      journal = {\aap},
+     keywords = {brown dwarfs, binaries: eclipsing, stars: low-mass, techniques: photometric, binaries (including multiple): close, Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Solar and Stellar Astrophysics},
+         year = 2016,
+        month = Jul,
+       volume = {592},
+          eid = {A32},
+        pages = {A32},
+          doi = {10.1051/0004-6361/201528002},
+archivePrefix = {arXiv},
+       eprint = {1606.02398},
+ primaryClass = {astro-ph.EP},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2016A&A...592A..32L},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2016ApJ...824...55S,
+       author = {{Santerne}, A. and {H{\'e}brard}, G. and {Lillo-Box}, J. and
+        {Armstrong}, D.~J. and {Barros}, S.~C.~C. and {Demangeon}, O.
+        and {Barrado}, D. and {Debackere}, A. and {Deleuil}, M. and
+        {Delgado Mena}, E. and {Montalto}, M. and {Pollacco}, D. and
+        {Osborn}, H.~P. and {Sousa}, S.~G. and {Abe}, L. and
+        {Adibekyan}, V. and {Almenara}, J. -M. and {Andr{\'e}}, P. and
+        {Arlic}, G. and {Barthe}, G. and {Bendjoya}, P. and {Behrend},
+        R. and {Boisse}, I. and {Bouchy}, F. and {Boussier}, H. and
+        {Bretton}, M. and {Brown}, D.~J.~A. and {Carry}, B. and
+        {Cailleau}, A. and {Conseil}, E. and {Coulon}, G. and {Courcol},
+        B. and {Dauchet}, B. and {Dalouzy}, J. -C. and {Deldem}, M. and
+        {Desormi{\`e}res}, O. and {Dubreuil}, P. and {Fehrenbach}, J.
+        -M. and {Ferratfiat}, S. and {Girelli}, R. and {Gregorio}, J.
+        and {Jaecques}, S. and {Kugel}, F. and {Kirk}, J. and
+        {Labrevoir}, O. and {Lachuri{\'e}}, J. -C. and {Lam}, K.~W.~F.
+        and {Le Guen}, P. and {Martinez}, P. and {Maurin}, L.~P.~A. and
+        {McCormac}, J. and {Pioppa}, J. -B. and {Quadri}, U. and
+        {Rajpurohit}, A. and {Rey}, J. and {Rivet}, J. -P. and {Roy}, R.
+        and {Santos}, N.~C. and {Signoret}, F. and {Strabla}, L. and
+        {Suarez}, O. and {Toublanc}, D. and {Tsantaki}, M. and
+        {Vienney}, J. -M. and {Wilson}, P.~A. and {Bachschmidt}, M. and
+        {Colas}, F. and {Gerteis}, O. and {Louis}, P. and {Mario}, J.
+        -C. and {Marlot}, C. and {Montier}, J. and {Perroud}, V. and
+        {Pic}, V. and {Romeuf}, D. and {Ubaud}, S. and {Verilhac}, D.},
+        title = "{K2-29 b/WASP-152 b: An Aligned and Inflated Hot Jupiter in a Young Visual Binary}",
+      journal = {\apj},
+     keywords = {planets and satellites: detection, stars: individual: EPIC21189792, techniques: high angular resolution, techniques: photometric, techniques: radial velocities, techniques: spectroscopic, Astrophysics - Earth and Planetary Astrophysics},
+         year = 2016,
+        month = Jun,
+       volume = {824},
+          eid = {55},
+        pages = {55},
+          doi = {10.3847/0004-637X/824/1/55},
+archivePrefix = {arXiv},
+       eprint = {1601.07680},
+ primaryClass = {astro-ph.EP},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2016ApJ...824...55S},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2016A&A...590A.112M,
+       author = {{Mancini}, L. and {Lillo-Box}, J. and {Southworth}, J. and {Borsato}, L.
+        and {Gandolfi}, D. and {Ciceri}, S. and {Barrado}, D. and
+        {Brahm}, R. and {Henning}, Th.},
+        title = "{Kepler-539: A young extrasolar system with two giant planets on wide orbits and in gravitational interaction}",
+      journal = {\aap},
+     keywords = {planetary systems, stars: fundamental parameters, stars: individual: Kepler-539, Astrophysics - Earth and Planetary Astrophysics},
+         year = 2016,
+        month = May,
+       volume = {590},
+          eid = {A112},
+        pages = {A112},
+          doi = {10.1051/0004-6361/201526357},
+archivePrefix = {arXiv},
+       eprint = {1504.04625},
+ primaryClass = {astro-ph.EP},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2016A&A...590A.112M},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2016A&A...589A.124L,
+       author = {{Lillo-Box}, J. and {Barrado}, D. and {Correia}, A.~C.~M.},
+        title = "{Close-in planets around giant stars. Lack of hot-Jupiters and prevalence of multiplanetary systems}",
+      journal = {\aap},
+     keywords = {planets and satellites: gaseous planets, planets and satellites: dynamical evolution and stability, planet-star interactions, planetary systems, Astrophysics - Earth and Planetary Astrophysics},
+         year = 2016,
+        month = May,
+       volume = {589},
+          eid = {A124},
+        pages = {A124},
+          doi = {10.1051/0004-6361/201527683},
+archivePrefix = {arXiv},
+       eprint = {1603.09719},
+ primaryClass = {astro-ph.EP},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2016A&A...589A.124L},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2015MNRAS.454.4267B,
+       author = {{Barros}, S.~C.~C. and {Almenara}, J.~M. and {Demangeon}, O. and
+        {Tsantaki}, M. and {Santerne}, A. and {Armstrong}, D.~J. and
+        {Barrado}, D. and {Brown}, D. and {Deleuil}, M. and {Lillo-Box},
+        J. and {Osborn}, H. and {Pollacco}, D. and {Abe}, L. and
+        {Andre}, P. and {Bendjoya}, P. and {Boisse}, I. and {Bonomo},
+        A.~S. and {Bouchy}, F. and {Bruno}, G. and {Cerda}, J. Rey and
+        {Courcol}, B. and {D{\'\i}az}, R.~F. and {H{\'e}brard}, G. and
+        {Kirk}, J. and {Lachuri{\'e}}, J.~C. and {Lam}, K.~W.~F. and
+        {Martinez}, P. and {McCormac}, J. and {Moutou}, C. and
+        {Rajpurohit}, A. and {Rivet}, J. -P. and {Spake}, J. and
+        {Suarez}, O. and {Toublanc}, D. and {Walker}, S.~R.},
+        title = "{Photodynamical mass determination of the multiplanetary system K2-19}",
+      journal = {\mnras},
+     keywords = {techniques: photometric, techniques: radial velocities, time, planets and satellites: detection, planets and satellites: dynamical evolution and stability, planets and satellites: individual: EPIC201505350, K2-19, Astrophysics - Earth and Planetary Astrophysics},
+         year = 2015,
+        month = Dec,
+       volume = {454},
+        pages = {4267-4276},
+          doi = {10.1093/mnras/stv2271},
+archivePrefix = {arXiv},
+       eprint = {1510.01047},
+ primaryClass = {astro-ph.EP},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2015MNRAS.454.4267B},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2015A&A...582A..33A,
+       author = {{Armstrong}, David J. and {Santerne}, Alexandre and {Veras}, Dimitri and
+        {Barros}, Susana C.~C. and {Demangeon}, Olivier and {Lillo-Box},
+        Jorge and {McCormac}, James and {Osborn}, Hugh P. and
+        {Tsantaki}, Maria and {Almenara}, Jos{\'e}-Manuel and {Barrado},
+        David and {Boisse}, Isabelle and {Bonomo}, Aldo S. and {Brown},
+        David J.~A. and {Bruno}, Giovanni and {Rey Cerda}, Javiera and
+        {Courcol}, Bastien and {Deleuil}, Magali and {D{\'\i}az},
+        Rodrigo F. and {Doyle}, Amanda P. and {H{\'e}brard}, Guillaume
+        and {Kirk}, James and {Lam}, Kristine W.~F. and {Pollacco}, Don
+        L. and {Rajpurohit}, Arvind and {Spake}, Jessica and {Walker},
+        Simon R.},
+        title = "{One of the closest exoplanet pairs to the 3:2 mean motion resonance: K2-19b and c}",
+      journal = {\aap},
+     keywords = {planets and satellites: individual: EPIC201505350c, planets and satellites: detection, planets and satellites: general, planets and satellites: dynamical evolution and stability, planets and satellites: individual: EPIC201505350b, Astrophysics - Earth and Planetary Astrophysics},
+         year = 2015,
+        month = Oct,
+       volume = {582},
+          eid = {A33},
+        pages = {A33},
+          doi = {10.1051/0004-6361/201526008},
+archivePrefix = {arXiv},
+       eprint = {1503.00692},
+ primaryClass = {astro-ph.EP},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2015A&A...582A..33A},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2015yCat..35820033A,
+       author = {{Armstrong}, D.~J. and {Santerne}, A. and {Veras}, D. and {Barros},
+        S.~C.~C. and {Demangeon}, O. and {Lillo-Box}, J. and {McCormac},
+        J. and {Osborn}, H.~P. and {Tsantaki}, M. and {Almenara}, J. -M.
+        and {Barrado}, D. and {Boisse}, I. and {Bonomo}, A.~S. and
+        {Brown}, D.~J.~A. and {Bruno}, G. and {Rey Cerda}, J. and
+        {Courcol}, B. and {Deleuil}, M. and {Diaz}, R.~F. and {Doyle},
+        A.~P. and {Hebrard}, G. and {Kirk}, J. and {Lam}, K.~W.~F. and
+        {Pollacco}, D.~L. and {Rajpurohit}, A. and {Spake}, J. and
+        {Walker}, S.~R.},
+        title = "{VizieR Online Data Catalog: K2-19b light curve (Armstrong+, 2015)}",
+      journal = {VizieR Online Data Catalog},
+     keywords = {Stars: double and multiple, Planets},
+         year = 2015,
+        month = Aug,
+          eid = {J/A+A/582/A33},
+        pages = {J/A+A/582/A33},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2015yCat..35820033A},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2015yCat..74401470B,
+       author = {{Birkby}, J.~L. and {Cappetta}, M. and {Cruz}, P. and {Koppenhoefer}, J.
+        and {Ivanyuk}, O. and {Mustill}, A.~J. and {Hodgkin}, S.~T. and
+        {Pinfield}, D.~J. and {Sipocz}, B. and {Kovacs}, G. and
+        {Saglia}, R. and {Pavlenko}, Y. and {Barrado}, D. and {Bayo}, A.
+        and {Campbell}, D. and {Catalan}, S. and {Fossati}, L. and
+        {Galvez-Ortiz}, M. -C. and {Kenworthy}, M. and {Lillo-Box}, J.
+        and {Martin}, E.~L. and {Mislis}, D. and {de Mooij}, E.~J.~W.
+        and {Nefs}, S.~V. and {Snellen}, I.~A.~G. and {Stoev}, H. and
+        {Zendejas}, J. and {Del Burgo}, C. and {Barnes}, J. and
+        {Goulding}, N. and {Haswell}, C.~A. and {Kuznetsov}, M. and
+        {Lodieu}, N. and {Murgas}, F. and {Palle}, E. and {Solano}, E.
+        and {Steele}, P. and {Tata}, R.},
+        title = "{VizieR Online Data Catalog: Ji light curves of WTS-2 (Birkby+, 2014)}",
+      journal = {VizieR Online Data Catalog},
+     keywords = {Stars: double and multiple, Planets, Photometry: infrared},
+         year = 2015,
+        month = Jul,
+          eid = {J/MNRAS/440/1470},
+        pages = {J/MNRAS/440/1470},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2015yCat..74401470B},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2015A&A...579A..48W,
+       author = {{Whelan}, E.~T. and {Hu{\'e}lamo}, N. and {Alcal{\'a}}, J.~M. and
+        {Lillo-Box}, J. and {Bouy}, H. and {Barrado}, D. and {Bouvier},
+        J. and {Mer{\'\i}n}, B.},
+        title = "{Spectro-astrometry of LkCa 15 with X-Shooter: Searching for emission from LkCa 15b}",
+      journal = {\aap},
+     keywords = {stars: low-mass, binaries: close, planets and satellites: formation, Astrophysics - Solar and Stellar Astrophysics},
+         year = 2015,
+        month = Jul,
+       volume = {579},
+          eid = {A48},
+        pages = {A48},
+          doi = {10.1051/0004-6361/201425578},
+archivePrefix = {arXiv},
+       eprint = {1504.04824},
+ primaryClass = {astro-ph.SR},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2015A&A...579A..48W},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2015yCat..35760088L,
+       author = {{Lillo-Box}, J. and {Barrado}, D. and {Mancini}, L. and {Henning}, T.
+        and {Figueira}, P. and {Ciceri}, S. and {Santos}, N.},
+        title = "{VizieR Online Data Catalog: Radial velocities of 8 KOI eclipsing binaries (Lillo-Box+, 2015)}",
+      journal = {VizieR Online Data Catalog},
+     keywords = {Binaries: eclipsing, Radial velocities},
+         year = 2015,
+        month = Jun,
+          eid = {J/A+A/576/A88},
+        pages = {J/A+A/576/A88},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2015yCat..35760088L},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2015A&A...577A.105L,
+       author = {{Lillo-Box}, J. and {Barrado}, D. and {Santos}, N.~C. and {Mancini}, L.
+        and {Figueira}, P. and {Ciceri}, S. and {Henning}, Th.},
+        title = "{Kepler-447b: a hot-Jupiter with an extremely grazing transit}",
+      journal = {\aap},
+     keywords = {planets and satellites: gaseous planets, planets and satellites: fundamental parameters, techniques: radial velocities, techniques: photometric, Astrophysics - Earth and Planetary Astrophysics},
+         year = 2015,
+        month = May,
+       volume = {577},
+          eid = {A105},
+        pages = {A105},
+          doi = {10.1051/0004-6361/201425428},
+archivePrefix = {arXiv},
+       eprint = {1502.03267},
+ primaryClass = {astro-ph.EP},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2015A&A...577A.105L},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2015A&A...576A..88L,
+       author = {{Lillo-Box}, J. and {Barrado}, D. and {Mancini}, L. and {Henning}, Th.
+        and {Figueira}, P. and {Ciceri}, S. and {Santos}, N.},
+        title = "{Eclipsing binaries and fast rotators in the Kepler sample. Characterization via radial velocity analysis from Calar Alto}",
+      journal = {\aap},
+     keywords = {techniques: radial velocities, planets and satellites: general, binaries: eclipsing, binaries: close, Astrophysics - Earth and Planetary Astrophysics},
+         year = 2015,
+        month = Apr,
+       volume = {576},
+          eid = {A88},
+        pages = {A88},
+          doi = {10.1051/0004-6361/201425272},
+archivePrefix = {arXiv},
+       eprint = {1501.05183},
+ primaryClass = {astro-ph.EP},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2015A&A...576A..88L},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2015A&A...574A.103C,
+       author = {{Cruz}, Patricia and {Barrado}, David and {Lillo-Box}, Jorge and {Diaz},
+        Marcos and {Birkby}, Jayne and {L{\'o}pez-Morales}, Mercedes and
+        {Hodgkin}, Simon and {Fortney}, Jonathan J.},
+        title = "{Detection of the secondary eclipse of WASP-10b in the Ks-band}",
+      journal = {\aap},
+     keywords = {planetary systems, stars: individual: WASP-10, techniques: photometric, Astrophysics - Earth and Planetary Astrophysics},
+         year = 2015,
+        month = Feb,
+       volume = {574},
+          eid = {A103},
+        pages = {A103},
+          doi = {10.1051/0004-6361/201423509},
+archivePrefix = {arXiv},
+       eprint = {1412.2996},
+ primaryClass = {astro-ph.EP},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2015A&A...574A.103C},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2015A&A...573L...5C,
+       author = {{Ciceri}, S. and {Lillo-Box}, J. and {Southworth}, J. and {Mancini}, L.
+        and {Henning}, Th. and {Barrado}, D.},
+        title = "{Kepler-432 b: a massive planet in a highly eccentric orbit transiting a red giant}",
+      journal = {\aap},
+     keywords = {planetary systems, stars: fundamental parameters, stars: individual: Kepler-432, Astrophysics - Earth and Planetary Astrophysics},
+         year = 2015,
+        month = Jan,
+       volume = {573},
+          eid = {L5},
+        pages = {L5},
+          doi = {10.1051/0004-6361/201425145},
+archivePrefix = {arXiv},
+       eprint = {1410.2999},
+ primaryClass = {astro-ph.EP},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2015A&A...573L...5C},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2014yCat..35660103L,
+       author = {{Lillo-Box}, J. and {Barrado}, D. and {Bouy}, H.},
+        title = "{VizieR Online Data Catalog: Kepler planet host candidates imaging (Lillo-Box+, 2014)}",
+      journal = {VizieR Online Data Catalog},
+     keywords = {Stars: double and multiple, Planets},
+         year = 2014,
+        month = Sep,
+          eid = {J/A+A/566/A103},
+        pages = {J/A+A/566/A103},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2014yCat..35660103L},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2014A&A...568L...1L,
+       author = {{Lillo-Box}, J. and {Barrado}, D. and {Henning}, Th. and {Mancini}, L.
+        and {Ciceri}, S. and {Figueira}, P. and {Santos}, N.~C. and
+        {Aceituno}, J. and {S{\'a}nchez}, S.~F.},
+        title = "{Radial velocity confirmation of Kepler-91 b. Additional evidence of its planetary nature using the Calar Alto/CAFE instrument}",
+      journal = {\aap},
+     keywords = {planets and satellites: gaseous planets, techniques: radial velocities, planets and satellites: individual: Kepler-91, planets and satellites: individual: KOI-2133, planets and satellites: individual: KIC 8219268, planet-star interactions, Astrophysics - Earth and Planetary Astrophysics},
+         year = 2014,
+        month = Aug,
+       volume = {568},
+          eid = {L1},
+        pages = {L1},
+          doi = {10.1051/0004-6361/201424587},
+archivePrefix = {arXiv},
+       eprint = {1408.1528},
+ primaryClass = {astro-ph.EP},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2014A&A...568L...1L},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2014A&A...566A.103L,
+       author = {{Lillo-Box}, J. and {Barrado}, D. and {Bouy}, H.},
+        title = "{High-resolution imaging of Kepler planet host candidates. A comprehensive comparison of different techniques}",
+      journal = {\aap},
+     keywords = {techniques: high angular resolution, planets and satellites: fundamental parameters, binaries: visual, Astrophysics - Earth and Planetary Astrophysics},
+         year = 2014,
+        month = Jun,
+       volume = {566},
+          eid = {A103},
+        pages = {A103},
+          doi = {10.1051/0004-6361/201423497},
+archivePrefix = {arXiv},
+       eprint = {1405.3120},
+ primaryClass = {astro-ph.EP},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2014A&A...566A.103L},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2014MNRAS.440.1470B,
+       author = {{Birkby}, J.~L. and {Cappetta}, M. and {Cruz}, P. and {Koppenhoefer}, J.
+        and {Ivanyuk}, O. and {Mustill}, A.~J. and {Hodgkin}, S.~T. and
+        {Pinfield}, D.~J. and {Sip{\'{o}}cz}, B. and {Kov{\'a}cs}, G.
+        and {Saglia}, R. and {Pavlenko}, Y. and {Barrado}, D. and
+        {Bayo}, A. and {Campbell}, D. and {Catalan}, S. and {Fossati},
+        L. and {G{\'a}lvez-Ortiz}, M. -C. and {Kenworthy}, M. and
+        {Lillo-Box}, J. and {Mart{\'\i}n}, E.~L. and {Mislis}, D. and
+        {de Mooij}, E.~J.~W. and {Nefs}, S.~V. and {Snellen}, I.~A.~G.
+        and {Stoev}, H. and {Zendejas}, J. and {del Burgo}, C. and
+        {Barnes}, J. and {Goulding}, N. and {Haswell}, C.~A. and
+        {Kuznetsov}, M. and {Lodieu}, N. and {Murgas}, F. and {Palle},
+        E. and {Solano}, E. and {Steele}, P. and {Tata}, R.},
+        title = "{WTS-2 b: a hot Jupiter orbiting near its tidal destruction radius around a K dwarf}",
+      journal = {\mnras},
+     keywords = {surveys, planets and satellites: detection, planets and satellites: dynamical evolution and stability, planets and satellites: fundamental parameters, planets and satellites: individual: WTS-2 b, Astrophysics - Earth and Planetary Astrophysics, Astrophysics - Solar and Stellar Astrophysics},
+         year = 2014,
+        month = May,
+       volume = {440},
+        pages = {1470-1489},
+          doi = {10.1093/mnras/stu343},
+archivePrefix = {arXiv},
+       eprint = {1402.5416},
+ primaryClass = {astro-ph.EP},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2014MNRAS.440.1470B},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2014A&A...565A..68R,
+       author = {{Riviere-Marichalar}, P. and {Barrado}, D. and {Montesinos}, B. and
+        {Duch{\^e}ne}, G. and {Bouy}, H. and {Pinte}, C. and {Menard},
+        F. and {Donaldson}, J. and {Eiroa}, C. and {Krivov}, A.~V. and
+        {Kamp}, I. and {Mendigut{\'\i}a}, I. and {Dent}, W.~R.~F. and
+        {Lillo-Box}, J.},
+        title = "{Gas and dust in the beta Pictoris moving group as seen by the Herschel Space Observatory}",
+      journal = {\aap},
+     keywords = {astrobiology, circumstellar matter, stars: evolution, Kuiper belt: general, astrochemistry, Astrophysics - Solar and Stellar Astrophysics},
+         year = 2014,
+        month = May,
+       volume = {565},
+          eid = {A68},
+        pages = {A68},
+          doi = {10.1051/0004-6361/201322901},
+archivePrefix = {arXiv},
+       eprint = {1404.1815},
+ primaryClass = {astro-ph.SR},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2014A&A...565A..68R},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2014yCat..22100020M,
+       author = {{Marcy}, G.~W. and {Isaacson}, H. and {Howard}, A.~W. and {Rowe}, J.~F.
+        and {Jenkins}, J.~M. and {Bryson}, S.~T. and {Latham}, D.~W. and
+        {Howell}, S.~B. and {Gautier}, T.~N., III and {Batalha}, N.~M.
+        and {Rogers}, L. and {Ciardi}, D. and {Fischer}, D.~A. and
+        {Gilliland}, R.~L. and {Kjeldsen}, H. and {Christensen-
+        Dalsgaard}, J. and {Huber}, D. and {Chaplin}, W.~J. and {Basu},
+        S. and {Buchhave}, L.~A. and {Quinn}, S.~N. and {Borucki}, W.~J.
+        and {Koch}, D.~G. and {Hunter}, R. and {Caldwell}, D.~A. and
+        {van Cleve}, J. and {Kolbl}, R. and {Weiss}, L.~M. and
+        {Petigura}, E. and {Seager}, S. and {Morton}, T. and {Johnson},
+        J.~A. and {Ballard}, S. and {Burke}, C. and {Cochran}, W.~D. and
+        {Endl}, M. and {MacQueen}, P. and {Everett}, M.~E. and
+        {Lissauer}, J.~J. and {Ford}, E.~B. and {Torres}, G. and
+        {Fressin}, F. and {Brown}, T.~M. and {Steffen}, J.~H. and
+        {Charbonneau}, D. and {Basri}, G.~S. and {Sasselov}, D.~D. and
+        {Winn}, J. and {Sanchis-Ojeda}, R. and {Christiansen}, J. and
+        {Adams}, E. and {Henze}, C. and {Dupree}, A. and {Fabrycky},
+        D.~C. and {Fortney}, J.~J. and {Tarter}, J. and {Holman}, M.~J.
+        and {Tenenbaum}, P. and {Shporer}, A. and {Lucas}, P.~W. and
+        {Welsh}, W.~F. and {Orosz}, J.~A. and {Bedding}, T.~R. and
+        {Campante}, T.~L. and {Davies}, G.~R. and {Elsworth}, Y. and
+        {Handberg}, R. and {Hekker}, S. and {Karoff}, C. and {Kawaler},
+        S.~D. and {Lund}, M.~N. and {Lundkvist}, M. and {Metcalfe},
+        T.~S. and {Miglio}, A. and {Silva Aguirre}, V. and {Stello}, D.
+        and {White}, T.~R. and {Boss}, A. and {Devore}, E. and {Gould},
+        A. and {Prsa}, A. and {Agol}, E. and {Barclay}, T. and
+        {Coughlin}, J. and {Brugamyer}, E. and {Mullally}, F. and
+        {Quintana}, E.~V. and {Still}, M. and {Thompson}, S.~E. and
+        {Morrison}, D. and {Twicken}, J.~D. and {Desert}, J. -M. and
+        {Carter}, J. and {Crepp}, J.~R. and {Hebrard}, G. and
+        {Santerne}, A. and {Moutou}, C. and {Sobeck}, C. and {Hudgins},
+        D. and {Haas}, M.~R. and {Robertson}, P. and {Lillo-Box}, J. and
+        {Barrado}, D.},
+        title = "{VizieR Online Data Catalog: Small Kepler planets radial velocities (Marcy+, 2014)}",
+      journal = {VizieR Online Data Catalog},
+     keywords = {Planets, Radial velocities, Stars: masses, Stars: diameters},
+         year = 2014,
+        month = Apr,
+          eid = {J/ApJS/210/20},
+        pages = {J/ApJS/210/20},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2014yCat..22100020M},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2014AJ....147...82C,
+       author = {{Cody}, Ann Marie and {Stauffer}, John and {Baglin}, Annie and {Micela},
+        Giuseppina and {Rebull}, Luisa M. and {Flaccomio}, Ettore and
+        {Morales-Calder{\'o}n}, Mar{\'\i}a and {Aigrain}, Suzanne and
+        {Bouvier}, J{\`e}r{\^o}me and {Hillenbrand}, Lynne A. and
+        {Gutermuth}, Robert and {Song}, Inseok and {Turner}, Neal and
+        {Alencar}, Silvia H.~P. and {Zwintz}, Konstanze and {Plavchan},
+        Peter and {Carpenter}, John and {Findeisen}, Krzysztof and
+        {Carey}, Sean and {Terebey}, Susan and {Hartmann}, Lee and
+        {Calvet}, Nuria and {Teixeira}, Paula and {Vrba}, Frederick J.
+        and {Wolk}, Scott and {Covey}, Kevin and {Poppenhaeger}, Katja
+        and {G{\"u}nther}, Hans Moritz and {Forbrich}, Jan and
+        {Whitney}, Barbara and {Affer}, Laura and {Herbst}, William and
+        {Hora}, Joseph and {Barrado}, David and {Holtzman}, Jon and
+        {Marchis}, Franck and {Wood}, Kenneth and {Medeiros
+        Guimar{\~a}es}, Marcelo and {Lillo Box}, Jorge and {Gillen}, Ed
+        and {McQuillan}, Amy and {Espaillat}, Catherine and {Allen},
+        Lori and {D'Alessio}, Paola and {Favata}, Fabio},
+        title = "{CSI 2264: Simultaneous Optical and Infrared Light Curves of Young Disk-bearing Stars in NGC 2264 with CoRoT and Spitzer{\textemdash}Evidence for Multiple Origins of Variability}",
+      journal = {\aj},
+     keywords = {accretion, accretion disks, circumstellar matter, protoplanetary disks, stars: pre-main sequence, stars: variables: T Tauri, Herbig Ae/Be, techniques: photometric, Astrophysics - Solar and Stellar Astrophysics},
+         year = 2014,
+        month = Apr,
+       volume = {147},
+          eid = {82},
+        pages = {82},
+          doi = {10.1088/0004-6256/147/4/82},
+archivePrefix = {arXiv},
+       eprint = {1401.6582},
+ primaryClass = {astro-ph.SR},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2014AJ....147...82C},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2014GeoRL..41.1425S,
+       author = {{S{\'a}nchez-Lavega}, A. and {R{\'\i}o-Gaztelurrutia}, T. and {Hueso},
+        R. and {P{\'e}rez-Hoyos}, S. and {Garc{\'\i}a-Melendo}, E. and
+        {Antu{\~n}ano}, A. and {Mendikoa}, I. and {Rojas}, J.~F. and
+        {Lillo}, J. and {Barrado-Navascu{\'e}s}, D. and {Gomez-
+        Forrellad}, J.~M. and {Go}, C. and {Peach}, D. and {Barry}, T.
+        and {Milika}, D.~P. and {Nicholas}, P. and {Wesley}, A.},
+        title = "{The long-term steady motion of Saturn's hexagon and the stability of its enclosed jet stream under seasonal changes}",
+      journal = {Geophysical Research Letters},
+     keywords = {Saturn, meteorology, polar regions},
+         year = 2014,
+        month = Mar,
+       volume = {41},
+        pages = {1425-1431},
+          doi = {10.1002/2013GL059078},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2014GeoRL..41.1425S},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2014ApJS..210...20M,
+       author = {{Marcy}, Geoffrey W. and {Isaacson}, Howard and {Howard}, Andrew W. and
+        {Rowe}, Jason F. and {Jenkins}, Jon M. and {Bryson}, Stephen T.
+        and {Latham}, David W. and {Howell}, Steve B. and {Gautier},
+        Thomas N., III and {Batalha}, Natalie M. and {Rogers}, Leslie
+        and {Ciardi}, David and {Fischer}, Debra A. and {Gilliland},
+        Ronald L. and {Kjeldsen}, Hans and {Christensen-Dalsgaard},
+        J{\o}rgen and {Huber}, Daniel and {Chaplin}, William J. and
+        {Basu}, Sarbani and {Buchhave}, Lars A. and {Quinn}, Samuel N.
+        and {Borucki}, William J. and {Koch}, David G. and {Hunter},
+        Roger and {Caldwell}, Douglas A. and {Van Cleve}, Jeffrey and
+        {Kolbl}, Rea and {Weiss}, Lauren M. and {Petigura}, Erik and
+        {Seager}, Sara and {Morton}, Timothy and {Johnson}, John Asher
+        and {Ballard}, Sarah and {Burke}, Chris and {Cochran}, William
+        D. and {Endl}, Michael and {MacQueen}, Phillip and {Everett},
+        Mark E. and {Lissauer}, Jack J. and {Ford}, Eric B. and
+        {Torres}, Guillermo and {Fressin}, Francois and {Brown}, Timothy
+        M. and {Steffen}, Jason H. and {Charbonneau}, David and {Basri},
+        Gibor S. and {Sasselov}, Dimitar D. and {Winn}, Joshua and
+        {Sanchis-Ojeda}, Roberto and {Christiansen}, Jessie and {Adams},
+        Elisabeth and {Henze}, Christopher and {Dupree}, Andrea and
+        {Fabrycky}, Daniel C. and {Fortney}, Jonathan J. and {Tarter},
+        Jill and {Holman}, Matthew J. and {Tenenbaum}, Peter and
+        {Shporer}, Avi and {Lucas}, Philip W. and {Welsh}, William F.
+        and {Orosz}, Jerome A. and {Bedding}, T.~R. and {Campante},
+        T.~L. and {Davies}, G.~R. and {Elsworth}, Y. and {Handberg}, R.
+        and {Hekker}, S. and {Karoff}, C. and {Kawaler}, S.~D. and
+        {Lund}, M.~N. and {Lundkvist}, M. and {Metcalfe}, T.~S. and
+        {Miglio}, A. and {Silva Aguirre}, V. and {Stello}, D. and
+        {White}, T.~R. and {Boss}, Alan and {Devore}, Edna and {Gould},
+        Alan and {Prsa}, Andrej and {Agol}, Eric and {Barclay}, Thomas
+        and {Coughlin}, Jeff and {Brugamyer}, Erik and {Mullally},
+        Fergal and {Quintana}, Elisa V. and {Still}, Martin and
+        {Thompson}, Susan E. and {Morrison}, David and {Twicken}, Joseph
+        D. and {D{\'e}sert}, Jean-Michel and {Carter}, Josh and {Crepp},
+        Justin R. and {H{\'e}brard}, Guillaume and {Santerne}, Alexandre
+        and {Moutou}, Claire and {Sobeck}, Charlie and {Hudgins},
+        Douglas and {Haas}, Michael R. and {Robertson}, Paul and {Lillo-
+        Box}, Jorge and {Barrado}, David},
+        title = "{Masses, Radii, and Orbits of Small Kepler Planets: The Transition from Gaseous to Rocky Planets}",
+      journal = {The Astrophysical Journal Supplement Series},
+     keywords = {planetary systems, planets and satellites: detection, stars: individual: Kepler-25 Kepler-37 Kepler-48 Kepler-68 Kepler-93 Kepler-94 Kepler-95 Kepler-96 Kepler-97 Kepler-98 Kepler-99 Kepler-100 Kepler-102 Kepler-103 Kepler-106 Kepler-109 Kepler-113 Kepler-131 Kepler-406 Kepler-407 Kepler-409, techniques: photometric, techniques: radial velocities, Astrophysics - Earth and Planetary Astrophysics},
+         year = 2014,
+        month = Feb,
+       volume = {210},
+          eid = {20},
+        pages = {20},
+          doi = {10.1088/0067-0049/210/2/20},
+archivePrefix = {arXiv},
+       eprint = {1401.4195},
+ primaryClass = {astro-ph.EP},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2014ApJS..210...20M},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2014A&A...562A.109L,
+       author = {{Lillo-Box}, J. and {Barrado}, D. and {Moya}, A. and {Montesinos}, B.
+        and {Montalb{\'a}n}, J. and {Bayo}, A. and {Barbieri}, M. and
+        {R{\'e}gulo}, C. and {Mancini}, L. and {Bouy}, H. and {Henning},
+        T.},
+        title = "{Kepler-91b: a planet at the end of its life. Planet and giant host star properties via light-curve variations}",
+      journal = {\aap},
+     keywords = {planets and satellites: fundamental parameters, planets and satellites: detection, stars: oscillations, planets and satellites: dynamical evolution and stability, asteroseismology, Astrophysics - Earth and Planetary Astrophysics},
+         year = 2014,
+        month = Feb,
+       volume = {562},
+          eid = {A109},
+        pages = {A109},
+          doi = {10.1051/0004-6361/201322001},
+archivePrefix = {arXiv},
+       eprint = {1312.3943},
+ primaryClass = {astro-ph.EP},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2014A&A...562A.109L},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2013A&A...555A..67R,
+       author = {{Riviere-Marichalar}, P. and {Pinte}, C. and {Barrado}, D. and {Thi},
+        W.~F. and {Eiroa}, C. and {Kamp}, I. and {Montesinos}, B. and
+        {Donaldson}, J. and {Augereau}, J.~C. and {Hu{\'e}lamo}, N. and
+        {Roberge}, A. and {Ardila}, D. and {Sandell}, G. and {Williams},
+        J.~P. and {Dent}, W.~R.~F. and {Menard}, F. and {Lillo-Box}, J.
+        and {Duch{\^e}ne}, G.},
+        title = "{Gas and dust in the TW Hydrae association as seen by the Herschel Space Observatory}",
+      journal = {\aap},
+     keywords = {stars: formation, astrochemistry, protoplanetary disks, circumstellar matter, zodiacal dust, planetary systems, Astrophysics - Solar and Stellar Astrophysics},
+         year = 2013,
+        month = Jul,
+       volume = {555},
+          eid = {A67},
+        pages = {A67},
+          doi = {10.1051/0004-6361/201321506},
+archivePrefix = {arXiv},
+       eprint = {1306.0328},
+ primaryClass = {astro-ph.SR},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2013A&A...555A..67R},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2013Natur.496..252B,
+       author = {{Barclay}, Thomas and {Rowe}, Jason F. and {Lissauer}, Jack J. and
+        {Huber}, Daniel and {Fressin}, Fran{\c{c}}ois and {Howell},
+        Steve B. and {Bryson}, Stephen T. and {Chaplin}, William J. and
+        {D{\'e}sert}, Jean-Michel and {Lopez}, Eric D. and {Marcy},
+        Geoffrey W. and {Mullally}, Fergal and {Ragozzine}, Darin and
+        {Torres}, Guillermo and {Adams}, Elisabeth R. and {Agol}, Eric
+        and {Barrado}, David and {Basu}, Sarbani and {Bedding}, Timothy
+        R. and {Buchhave}, Lars A. and {Charbonneau}, David and
+        {Christiansen}, Jessie L. and {Christensen-Dalsgaard}, J{\o}rgen
+        and {Ciardi}, David and {Cochran}, William D. and {Dupree},
+        Andrea K. and {Elsworth}, Yvonne and {Everett}, Mark and
+        {Fischer}, Debra A. and {Ford}, Eric B. and {Fortney}, Jonathan
+        J. and {Geary}, John C. and {Haas}, Michael R. and {Handberg},
+        Rasmus and {Hekker}, Saskia and {Henze}, Christopher E. and
+        {Horch}, Elliott and {Howard}, Andrew W. and {Hunter}, Roger C.
+        and {Isaacson}, Howard and {Jenkins}, Jon M. and {Karoff},
+        Christoffer and {Kawaler}, Steven D. and {Kjeldsen}, Hans and
+        {Klaus}, Todd C. and {Latham}, David W. and {Li}, Jie and
+        {Lillo-Box}, Jorge and {Lund}, Mikkel N. and {Lundkvist}, Mia
+        and {Metcalfe}, Travis S. and {Miglio}, Andrea and {Morris},
+        Robert L. and {Quintana}, Elisa V. and {Stello}, Dennis and
+        {Smith}, Jeffrey C. and {Still}, Martin and {Thompson}, Susan E.},
+        title = "{Erratum: A sub-Mercury-sized exoplanet}",
+      journal = {\nat},
+         year = 2013,
+        month = Apr,
+       volume = {496},
+        pages = {252},
+          doi = {10.1038/nature12067},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2013Natur.496..252B},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2013EPJWC..4705008B,
+       author = {{Barrado}, D. and {Lillo-Box}, J. and {Bouy}, H. and {Aceituno}, J. and
+        {S{\'a}nchez}, S.},
+        title = "{Multiplicity and properties of Kepler planet candidates: High spatial imaging and RV studies}",
+    booktitle = {European Physical Journal Web of Conferences},
+         year = 2013,
+       volume = {47},
+        month = Apr,
+          eid = {05008},
+        pages = {05008},
+          doi = {10.1051/epjconf/20134705008},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2013EPJWC..4705008B},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2013A&A...552A..31A,
+       author = {{Aceituno}, J. and {S{\'a}nchez}, S.~F. and {Grupp}, F. and {Lillo}, J.
+        and {Hern{\'a}n-Obispo}, M. and {Benitez}, D. and {Montoya},
+        L.~M. and {Thiele}, U. and {Pedraz}, S. and {Barrado}, D. and
+        {Dreizler}, S. and {Bean}, J.},
+        title = "{CAFE: Calar Alto Fiber-fed {\'E}chelle spectrograph}",
+      journal = {\aap},
+     keywords = {instrumentation: spectrographs, methods: observational, methods: data analysis, techniques: spectroscopic, Astrophysics - Instrumentation and Methods for Astrophysics},
+         year = 2013,
+        month = Apr,
+       volume = {552},
+          eid = {A31},
+        pages = {A31},
+          doi = {10.1051/0004-6361/201220361},
+archivePrefix = {arXiv},
+       eprint = {1301.2066},
+ primaryClass = {astro-ph.IM},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2013A&A...552A..31A},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2013Natur.494..452B,
+       author = {{Barclay}, Thomas and {Rowe}, Jason F. and {Lissauer}, Jack J. and
+        {Huber}, Daniel and {Fressin}, Fran{\c{c}}ois and {Howell},
+        Steve B. and {Bryson}, Stephen T. and {Chaplin}, William J. and
+        {D{\'e}sert}, Jean-Michel and {Lopez}, Eric D. and {Marcy},
+        Geoffrey W. and {Mullally}, Fergal and {Ragozzine}, Darin and
+        {Torres}, Guillermo and {Adams}, Elisabeth R. and {Agol}, Eric
+        and {Barrado}, David and {Basu}, Sarbani and {Bedding}, Timothy
+        R. and {Buchhave}, Lars A. and {Charbonneau}, David and
+        {Christiansen}, Jessie L. and {Christensen-Dalsgaard}, J{\o}rgen
+        and {Ciardi}, David and {Cochran}, William D. and {Dupree},
+        Andrea K. and {Elsworth}, Yvonne and {Everett}, Mark and
+        {Fischer}, Debra A. and {Ford}, Eric B. and {Fortney}, Jonathan
+        J. and {Geary}, John C. and {Haas}, Michael R. and {Handberg},
+        Rasmus and {Hekker}, Saskia and {Henze}, Christopher E. and
+        {Horch}, Elliott and {Howard}, Andrew W. and {Hunter}, Roger C.
+        and {Isaacson}, Howard and {Jenkins}, Jon M. and {Karoff},
+        Christoffer and {Kawaler}, Steven D. and {Kjeldsen}, Hans and
+        {Klaus}, Todd C. and {Latham}, David W. and {Li}, Jie and
+        {Lillo-Box}, Jorge and {Lund}, Mikkel N. and {Lundkvist}, Mia
+        and {Metcalfe}, Travis S. and {Miglio}, Andrea and {Morris},
+        Robert L. and {Quintana}, Elisa V. and {Stello}, Dennis and
+        {Smith}, Jeffrey C. and {Still}, Martin and {Thompson}, Susan E.},
+        title = "{A sub-Mercury-sized exoplanet}",
+      journal = {\nat},
+     keywords = {Astrophysics - Earth and Planetary Astrophysics},
+         year = 2013,
+        month = Feb,
+       volume = {494},
+        pages = {452-454},
+          doi = {10.1038/nature11914},
+archivePrefix = {arXiv},
+       eprint = {1305.5587},
+ primaryClass = {astro-ph.EP},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2013Natur.494..452B},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2012A&A...548A..53L,
+       author = {{Lodieu}, N. and {Burningham}, B. and {Day-Jones}, A. and {Scholz}, R.
+        -D. and {Marocco}, F. and {Koposov}, S. and {Barrado y
+        Navascu{\'e}s}, D. and {Lucas}, P.~W. and {Cruz}, P. and
+        {Lillo}, J. and {Jones}, H. and {Perez-Garrido}, A. and {Ruiz},
+        M.~T. and {Pinfield}, D. and {Rebolo}, R. and {B{\'e}jar},
+        V.~J.~S. and {Boudreault}, S. and {Emerson}, J.~P. and
+        {Banerji}, M. and {Gonz{\'a}lez-Solares}, E. and {Hodgkin},
+        S.~T. and {McMahon}, R. and {Canty}, J. and {Contreras}, C.},
+        title = "{First T dwarfs in the VISTA Hemisphere Survey}",
+      journal = {\aap},
+     keywords = {brown dwarfs, stars: low-mass, techniques:, photometric, techniques: spectroscopic, infrared:, stars, surveys, Astrophysics - Solar and Stellar Astrophysics},
+         year = 2012,
+        month = Dec,
+       volume = {548},
+          eid = {A53},
+        pages = {A53},
+          doi = {10.1051/0004-6361/201220182},
+archivePrefix = {arXiv},
+       eprint = {1210.5148},
+ primaryClass = {astro-ph.SR},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2012A&A...548A..53L},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2012yCat..35460010L,
+       author = {{Lillo-Box}, J. and {Barrado}, D. and {Bouy}, H.},
+        title = "{VizieR Online Data Catalog: Multiplicity in transiting planet-host stars (Lillo-Box+, 2012)}",
+      journal = {VizieR Online Data Catalog},
+     keywords = {Stars: double and multiple, Planets, Photometry: SDSS},
+         year = 2012,
+        month = Nov,
+          eid = {J/A+A/546/A10},
+        pages = {J/A+A/546/A10},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2012yCat..35460010L},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2012A&A...546A..10L,
+       author = {{Lillo-Box}, J. and {Barrado}, D. and {Bouy}, H.},
+        title = "{Multiplicity in transiting planet-host stars. A lucky imaging study of Kepler candidates}",
+      journal = {\aap},
+     keywords = {binaries: visual, instrumentation: high angular resolution, planets and satellites: fundamental parameters, Astrophysics - Earth and Planetary Astrophysics},
+         year = 2012,
+        month = Oct,
+       volume = {546},
+          eid = {A10},
+        pages = {A10},
+          doi = {10.1051/0004-6361/201219631},
+archivePrefix = {arXiv},
+       eprint = {1208.0242},
+ primaryClass = {astro-ph.EP},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2012A&A...546A..10L},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2012Icar..220..561S,
+       author = {{S{\'a}nchez-Lavega}, Agust{\'\i}n and {del R{\'\i}o-Gaztelurrutia},
+        Teresa and {Delcroix}, Marc and {Legarreta}, Jon J. and {G{\'o
+        }mez-Forrellad}, Josep M. and {Hueso}, Ricardo and
+        {Garc{\'\i}a-Melendo}, Enrique and {P{\'e}rez-Hoyos}, Santiago
+        and {Barrado-Navascu{\'e}s}, David and {Lillo}, Jorge and
+        {International Outer Planet Watch Team IOPW-PVOL}},
+        title = "{Ground-based observations of the long-term evolution and death of Saturn's 2010 Great White Spot}",
+      journal = {\icarus},
+         year = 2012,
+        month = Aug,
+       volume = {220},
+        pages = {561-576},
+          doi = {10.1016/j.icarus.2012.05.033},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2012Icar..220..561S},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@ARTICLE{2012MNRAS.419.1271S,
+       author = {{Scholz}, Alexander and {Stelzer}, Beate and {Costigan}, Grainne and
+        {Barrado}, David and {Eisl{\"o}ffel}, Jochen and {Lillo-Box},
+        Jorge and {Riviere-Marichalar}, Pablo and {Stoev}, Hristo},
+        title = "{Magnetic activity and accretion on FU Tau A: clues from variability}",
+      journal = {\mnras},
+     keywords = {accretion, accretion discs, stars: activity, brown dwarfs, stars: low-mass, stars: rotation, Astrophysics - Solar and Stellar Astrophysics},
+         year = 2012,
+        month = Jan,
+       volume = {419},
+        pages = {1271-1279},
+          doi = {10.1111/j.1365-2966.2011.19781.x},
+archivePrefix = {arXiv},
+       eprint = {1109.3474},
+ primaryClass = {astro-ph.SR},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2012MNRAS.419.1271S},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+@INPROCEEDINGS{2011hsa6.conf..541M,
+       author = {{Morales}, C. and {Cassatella}, A. and {Lillo}, J. and {Hedrosa}, R.},
+        title = "{E(B-V) determination of peculiar stars with the three-points method}",
+    booktitle = {Highlights of Spanish Astrophysics VI},
+         year = 2011,
+       editor = {{Zapatero Osorio}, M.~R. and {Gorgas}, J. and {Ma{\'\i}z Apell{\'a}niz},
+        J. and {Pardo}, J.~R. and {Gil de Paz}, A.},
+        month = Nov,
+        pages = {541-541},
+       adsurl = {https://ui.adsabs.harvard.edu/\#abs/2011hsa6.conf..541M},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
