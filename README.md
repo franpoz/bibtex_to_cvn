@@ -2,16 +2,18 @@
  Bibliography converter to CVN format
 
 @author        : Jorge Lillo-Box
+
 Goal        : Bibtex cleaner for CVN
 
 Description    : Change the ADS bibliographic style to one acceptable by CVN. Changes 
-              include accents, journal names, removal of "{" and "}"
+include accents, journal names, removal of "{" and "}"
 
 Version date: 17.nov.2016
 
 Dependencies: bibtexparser, numpy, sys
 
-Intructions    : 
+*Intructions    : 
+
     1. Go to ADS and mark all references that you want to be included (e.g., your personal
        bibliography).
 
